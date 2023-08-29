@@ -1,0 +1,15 @@
+/home/kiber/projects/Sisharp/Example003_Sum/bin/Debug/net7.0/Example003_Sum
+/home/kiber/projects/Sisharp/Example003_Sum/bin/Debug/net7.0/Example003_Sum.deps.json
+/home/kiber/projects/Sisharp/Example003_Sum/bin/Debug/net7.0/Example003_Sum.runtimeconfig.json
+/home/kiber/projects/Sisharp/Example003_Sum/bin/Debug/net7.0/Example003_Sum.dll
+/home/kiber/projects/Sisharp/Example003_Sum/bin/Debug/net7.0/Example003_Sum.pdb
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/Example003_Sum.csproj.AssemblyReference.cache
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/Example003_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/Example003_Sum.AssemblyInfoInputs.cache
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/Example003_Sum.AssemblyInfo.cs
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/Example003_Sum.csproj.CoreCompileInputs.cache
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/Example003_Sum.dll
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/refint/Example003_Sum.dll
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/Example003_Sum.pdb
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/Example003_Sum.genruntimeconfig.cache
+/home/kiber/projects/Sisharp/Example003_Sum/obj/Debug/net7.0/ref/Example003_Sum.dll
