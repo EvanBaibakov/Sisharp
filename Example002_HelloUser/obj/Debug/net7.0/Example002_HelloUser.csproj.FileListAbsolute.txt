@@ -1,0 +1,15 @@
+/home/kiber/projects/Sisharp/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser
+/home/kiber/projects/Sisharp/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser.deps.json
+/home/kiber/projects/Sisharp/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser.runtimeconfig.json
+/home/kiber/projects/Sisharp/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser.dll
+/home/kiber/projects/Sisharp/Example002_HelloUser/bin/Debug/net7.0/Example002_HelloUser.pdb
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.csproj.AssemblyReference.cache
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.AssemblyInfo.cs
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.dll
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/refint/Example002_HelloUser.dll
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.pdb
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/Example002_HelloUser.genruntimeconfig.cache
+/home/kiber/projects/Sisharp/Example002_HelloUser/obj/Debug/net7.0/ref/Example002_HelloUser.dll
