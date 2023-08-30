@@ -1,0 +1,15 @@
+/home/kiber/projects/Sisharp/Example004_Div/bin/Debug/net7.0/Example004_Div
+/home/kiber/projects/Sisharp/Example004_Div/bin/Debug/net7.0/Example004_Div.deps.json
+/home/kiber/projects/Sisharp/Example004_Div/bin/Debug/net7.0/Example004_Div.runtimeconfig.json
+/home/kiber/projects/Sisharp/Example004_Div/bin/Debug/net7.0/Example004_Div.dll
+/home/kiber/projects/Sisharp/Example004_Div/bin/Debug/net7.0/Example004_Div.pdb
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/Example004_Div.csproj.AssemblyReference.cache
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/Example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/Example004_Div.AssemblyInfoInputs.cache
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/Example004_Div.AssemblyInfo.cs
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/Example004_Div.csproj.CoreCompileInputs.cache
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/Example004_Div.dll
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/refint/Example004_Div.dll
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/Example004_Div.pdb
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/Example004_Div.genruntimeconfig.cache
+/home/kiber/projects/Sisharp/Example004_Div/obj/Debug/net7.0/ref/Example004_Div.dll
