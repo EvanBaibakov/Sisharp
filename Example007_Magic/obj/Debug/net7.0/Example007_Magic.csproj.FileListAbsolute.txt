@@ -1,0 +1,15 @@
+/home/kiber/projects/Sisharp/Example007_Magic/bin/Debug/net7.0/Example007_Magic
+/home/kiber/projects/Sisharp/Example007_Magic/bin/Debug/net7.0/Example007_Magic.deps.json
+/home/kiber/projects/Sisharp/Example007_Magic/bin/Debug/net7.0/Example007_Magic.runtimeconfig.json
+/home/kiber/projects/Sisharp/Example007_Magic/bin/Debug/net7.0/Example007_Magic.dll
+/home/kiber/projects/Sisharp/Example007_Magic/bin/Debug/net7.0/Example007_Magic.pdb
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/Example007_Magic.csproj.AssemblyReference.cache
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/Example007_Magic.AssemblyInfoInputs.cache
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/Example007_Magic.AssemblyInfo.cs
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/Example007_Magic.dll
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/refint/Example007_Magic.dll
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/Example007_Magic.pdb
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/Example007_Magic.genruntimeconfig.cache
+/home/kiber/projects/Sisharp/Example007_Magic/obj/Debug/net7.0/ref/Example007_Magic.dll
