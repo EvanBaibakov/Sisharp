@@ -8,24 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/kiber/.nuget/packages/": {}
+    "C:\\Users\\86828\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kiber/projects/Sisharp/Example003_Sum/Example003_Sum.csproj",
+      "projectUniqueName": "C:\\Users\\86828\\Documents\\projects\\Sisharp\\Example003_Sum\\Example003_Sum.csproj",
       "projectName": "Example003_Sum",
-      "projectPath": "/home/kiber/projects/Sisharp/Example003_Sum/Example003_Sum.csproj",
-      "packagesPath": "/home/kiber/.nuget/packages/",
-      "outputPath": "/home/kiber/projects/Sisharp/Example003_Sum/obj/",
+      "projectPath": "C:\\Users\\86828\\Documents\\projects\\Sisharp\\Example003_Sum\\Example003_Sum.csproj",
+      "packagesPath": "C:\\Users\\86828\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\86828\\Documents\\projects\\Sisharp\\Example003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/kiber/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\86828\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/216/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RHxxAykKpEP/eRyJG5H8zWTX3vtkjOuxmYnfWWILgY2wrg1z1Ly3UA/nMfRjY9i/CYW9//riA4f5wZIlIdEEQQ==",
+  "dgSpecHash": "6PBdDLPyqV5K7HojJADWboyZWLA4Lt0sMWAujMsgSs3L6y4JH/3dcXq4CS3r+Dxi30oOAng+BIxpm2kpQO6Uvg==",
   "success": true,
-  "projectFilePath": "/home/kiber/projects/Sisharp/Example001_HelloConsole/Example001_HelloConsole.csproj",
+  "projectFilePath": "C:\\Users\\86828\\Documents\\projects\\Sisharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

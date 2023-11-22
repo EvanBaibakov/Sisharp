@@ -13,3 +13,17 @@
 /home/kiber/projects/Sisharp/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.pdb
 /home/kiber/projects/Sisharp/Example001_HelloConsole/obj/Debug/net7.0/Example001_HelloConsole.genruntimeconfig.cache
 /home/kiber/projects/Sisharp/Example001_HelloConsole/obj/Debug/net7.0/ref/Example001_HelloConsole.dll
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.exe
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.deps.json
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.runtimeconfig.json
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.dll
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\bin\Debug\net7.0\Example001_HelloConsole.pdb
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.AssemblyInfo.cs
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.dll
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\refint\Example001_HelloConsole.dll
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.pdb
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\Example001_HelloConsole.genruntimeconfig.cache
+C:\Users\86828\Documents\projects\Sisharp\Example001_HelloConsole\obj\Debug\net7.0\ref\Example001_HelloConsole.dll

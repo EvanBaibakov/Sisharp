@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ni+MyeaLZp/IrdwaiXGuYUbUAU8EyPx/yUesrpzY3jhhCafa1Kxjyd8M6okoc2BHToWEhIZQesb+EYz3o1m/ZQ==",
+  "dgSpecHash": "GHD89nquzidkDCu7VxiHzabcO1XS4qdY2du9T9m7dCCWalMtiPTNzn5jcmPtOS5zwdoy8cO+du93k/y6BmLJEg==",
   "success": true,
-  "projectFilePath": "/home/kiber/projects/Sisharp/Example002_HelloUser/Example002_HelloUser.csproj",
+  "projectFilePath": "C:\\Users\\86828\\Documents\\projects\\Sisharp\\Example002_HelloUser\\Example002_HelloUser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
